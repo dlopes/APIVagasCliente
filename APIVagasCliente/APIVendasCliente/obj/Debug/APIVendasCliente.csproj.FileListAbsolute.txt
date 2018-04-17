@@ -1,0 +1,371 @@
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\ApplicationInsights.config
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\APIVendasCliente.dll.config
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\APIVendasCliente.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\APIVendasCliente.pdb
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\csc.exe
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\csc.exe.config
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\csc.rsp
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\csi.exe
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\csi.exe.config
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\csi.rsp
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.AppContext.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Console.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\vbc.exe
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\vbc.exe.config
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\vbc.rsp
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Antlr3.Runtime.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.Web.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Newtonsoft.Json.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Net.Http.Formatting.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Helpers.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.WebHost.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Mvc.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Optimization.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Razor.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\WebGrease.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Newtonsoft.Json.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Net.Http.Formatting.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Helpers.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.WebHost.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Mvc.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Optimization.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.Razor.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Antlr3.Runtime.pdb
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.Web.xml
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.csprojResolveAssemblyReference.cache
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.csproj.CoreCompileInputs.cache
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.csproj.CopyComplete
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.dll
+C:\Users\Dilson\source\repos\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.pdb
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.csproj.CoreCompileInputs.cache
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\ApplicationInsights.config
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\APIVendasCliente.dll.config
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\APIVendasCliente.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\APIVendasCliente.pdb
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\csc.exe
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\csc.exe.config
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\csc.rsp
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\csi.exe
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\csi.exe.config
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\csi.rsp
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.AppContext.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Console.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Diagnostics.Process.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.Compression.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.FileSystem.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.Pipes.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.AccessControl.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Claims.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Threading.Thread.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.ValueTuple.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.XPath.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\vbc.exe
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\vbc.exe.config
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\vbc.rsp
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\VBCSCompiler.exe
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Antlr3.Runtime.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\EntityFramework.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\EntityFramework.SqlServer.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\FluentValidation.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Iesi.Collections.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.Web.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.WindowsServer.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.ApplicationInsights.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\MySql.Data.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\MySql.Data.Entity.EF6.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\MySql.Web.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Newtonsoft.Json.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\NHibernate.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Remotion.Linq.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Remotion.Linq.EagerFetching.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.ComponentModel.Annotations.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.ComponentModel.Primitives.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Net.Http.Formatting.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Helpers.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.WebHost.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Mvc.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Optimization.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Razor.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Razor.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\WebGrease.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\WebMatrix.Data.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\WebMatrix.WebData.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Antlr3.Runtime.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\EntityFramework.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\EntityFramework.SqlServer.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\FluentValidation.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Iesi.Collections.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\MySql.Data.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\MySql.Data.Entity.EF6.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\MySql.Web.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\NHibernate.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Remotion.Linq.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Remotion.Linq.EagerFetching.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Newtonsoft.Json.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Net.Http.Formatting.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Helpers.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.WebHost.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Mvc.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Optimization.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.Razor.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Razor.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\WebMatrix.Data.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\WebMatrix.WebData.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.ApplicationInsights.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.WindowsServer.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.Web.xml
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Http.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Razor.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.csproj.CopyComplete
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.dll
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.pdb
+D:\Projetos Dilson\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.csprojResolveAssemblyReference.cache
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\ApplicationInsights.config
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\APIVendasCliente.dll.config
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\APIVendasCliente.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\APIVendasCliente.pdb
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\csc.exe
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\csc.exe.config
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\csc.rsp
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\csi.exe
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\csi.exe.config
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\csi.rsp
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.AppContext.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Collections.Immutable.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Console.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Diagnostics.Process.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.Compression.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.FileSystem.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.IO.Pipes.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.AccessControl.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Claims.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Threading.Thread.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.ValueTuple.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.XPath.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\vbc.exe
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\vbc.exe.config
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\vbc.rsp
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\VBCSCompiler.exe
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\roslyn\VBCSCompiler.exe.config
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Antlr3.Runtime.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\EntityFramework.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\EntityFramework.SqlServer.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\FluentValidation.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Iesi.Collections.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.Web.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.WindowsServer.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.ApplicationInsights.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\MySql.Data.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\MySql.Data.Entity.EF6.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\MySql.Web.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Newtonsoft.Json.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\NHibernate.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Remotion.Linq.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Remotion.Linq.EagerFetching.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.ComponentModel.Annotations.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.ComponentModel.Primitives.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Net.Http.Formatting.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Helpers.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.WebHost.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Mvc.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Optimization.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Razor.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Deployment.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Razor.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\WebGrease.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\WebMatrix.Data.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\WebMatrix.WebData.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Antlr3.Runtime.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\EntityFramework.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\EntityFramework.SqlServer.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\FluentValidation.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Iesi.Collections.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\MySql.Data.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\MySql.Data.Entity.EF6.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\MySql.Web.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\NHibernate.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Remotion.Linq.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Remotion.Linq.EagerFetching.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Newtonsoft.Json.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Net.Http.Formatting.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Helpers.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Http.WebHost.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Mvc.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Optimization.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.Razor.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Deployment.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\System.Web.WebPages.Razor.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\WebMatrix.Data.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\WebMatrix.WebData.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.ApplicationInsights.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.WindowsServer.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\Microsoft.AI.Web.xml
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Http.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.Razor.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.csprojResolveAssemblyReference.cache
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.dll
+C:\Dilson\Biometria\APIVendasCliente\APIVendasCliente\obj\Debug\APIVendasCliente.pdb
